@@ -1,8 +1,8 @@
+node_modules
 .nyc_output/
 *.log
 dist/*
 .history/*
-node_modules
 packages/core/node_modules
 packages/app1/node_modules
 packages/app2/node_modules
