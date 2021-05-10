@@ -1,5 +1,5 @@
 {
-  "name": "app2",
+  "name": "yanghuan.npm.app2",
   "version": "0.0.5",
   "description": "",
   "main": "index.js",
@@ -14,5 +14,5 @@
   "dependencies": {
     "core": "^0.0.1"
   },
-  "gitHead": "9edea62e59622c5d2f701a8207c7e5508ab638ad"
+  "gitHead": "dfd4a1298467c9bbdf8665be7beb3a489cb0e5b7"
 }
