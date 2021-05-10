@@ -1,4 +1,5 @@
 module.exports={
     name:"core 1.0.0",
-    type:"common"
+    type:"common",
+    iii:111
     }
