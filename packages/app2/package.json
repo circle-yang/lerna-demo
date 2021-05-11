@@ -1,5 +1,5 @@
 {
-  "name": "@datatmom/yanghuan.npm.app2",
+  "name": "@datatom/yanghuan.npm.app2",
   "version": "0.0.7",
   "description": "",
   "main": "index.js",
@@ -14,5 +14,5 @@
   "dependencies": {
     "core": "^0.0.1"
   },
-  "gitHead": "dfd4a1298467c9bbdf8665be7beb3a489cb0e5b7"
+  "gitHead": "178f2d4650e3ac4fdf6c1861b4db691681486816"
 }
